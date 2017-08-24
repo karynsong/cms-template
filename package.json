@@ -1,0 +1,18 @@
+{
+  "name": "bmfe-cms-template",
+  "version": "1.0.1",
+  "description": "本木后台系统模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.benmu-health.org:fe-active/cms-template.git"
+  },
+  "keywords": [
+    "模板，后台系统"
+  ],
+  "author": "Zero",
+  "license": "ISC"
+}
